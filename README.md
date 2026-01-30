@@ -29,7 +29,7 @@ Multiple padding schemes - PKCS7, ISO7816, x923 support
 
 Adjustable security - Configurable key derivation iterations
 
-Cross-platform - Works on Windows
+Cross-platform - Works on Windows, macOS, and Linux
 
 Prerequisites
 Python 3.7 or higher
