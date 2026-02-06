@@ -37,7 +37,7 @@ Python 3.7 or higher
 pip package manager
 
 STEP 1: clone or download
-git clone https://github.com/yourusername/file-encryptor-pro.git
+git clone https://github.com/Limad0/file-encryptor.git
 cd file-encryptor-pro
 
 STEP 2: Install dependencies
