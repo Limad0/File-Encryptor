@@ -1,12 +1,13 @@
 # File-Encryptor
-A file encryptor that was made specifically to encrypt and decrypt your files
-File Encryptor
+
 ![Version](https://img.shields.io/badge/Version-2.1-blue)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-green)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![Encryption](https://img.shields.io/badge/Encryption-AES--256-brightgreen)
-File encryption tool with graphical interface - AES-256 encryption/decryption with advanced security features.
+![Status](https://img.shields.io/badge/Status-Stable-success)
+
+A professional file encryption tool with graphical interface - AES-256 encryption/decryption with advanced security features.
 
 🚀 Features
 AES-256 encryption
@@ -38,7 +39,7 @@ pip package manager
 
 STEP 1: clone or download
 git clone https://github.com/Limad0/file-encryptor.git
-cd file-encryptor-pro
+cd file-encryptor
 
 STEP 2: Install dependencies
 pip install pycryptodome
