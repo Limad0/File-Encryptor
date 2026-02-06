@@ -1,11 +1,11 @@
 # File-Encryptor
 A file encryptor that was made specifically to encrypt and decrypt your files
 File Encryptor
-https://img.shields.io/badge/Version-2.1-blue
-https://img.shields.io/badge/Python-3.7%252B-green
-https://img.shields.io/badge/License-MIT-yellow
-https://img.shields.io/badge/Platform-Windows%2520%257C%2520macOS%2520%257C%2520Linux-lightgrey
-
+![Version](https://img.shields.io/badge/Version-2.1-blue)
+![Python](https://img.shields.io/badge/Python-3.7%2B-green)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Encryption](https://img.shields.io/badge/Encryption-AES--256-brightgreen)
 File encryption tool with graphical interface - AES-256 encryption/decryption with advanced security features.
 
 🚀 Features
